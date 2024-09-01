@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="inftao" name="nam-test" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/NeuralAmpModelerCore/Dependencies&#10;~/Workspace/juce/NeuralAmpModelerCore/NAM&#10;~/Workspace/juce/AudioDSPTools/dsp">
   <MAINGROUP id="CjjodX" name="nam-test">
     <GROUP id="{A122A781-0E0F-2FBC-8370-6B4F05A3E068}" name="Source">
       <FILE id="BLQZUR" name="PluginProcessor.cpp" compile="1" resource="0"
