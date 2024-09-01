@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="inftao" name="nam-test" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann&#10;~/Workspace/juce/dependencies/iPlug2/iPlug&#10;~/Workspace/juce/dependencies/nam">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann&#10;~/Workspace/juce/dependencies/iPlug2/iPlug&#10;~/Workspace/juce/dependencies/iPlug2/WDL&#10;~/Workspace/juce/dependencies/nam">
   <MAINGROUP id="CjjodX" name="nam-test">
     <GROUP id="{D433D857-E78A-5D77-FEB5-7D3E62836D74}" name="Resource">
       <FILE id="GIVd1e" name="Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam"

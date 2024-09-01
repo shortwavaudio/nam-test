@@ -66,4 +66,7 @@ public:
 private:
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (NamtestAudioProcessor)
+    
+//    WDL_String mNAMPath;
+    std::unique_ptr<ResamplingNAM> mModel;
 };
