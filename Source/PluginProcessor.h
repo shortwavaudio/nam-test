@@ -9,7 +9,8 @@
 #pragma once
 
 #include <JuceHeader.h>
-#include "NoiseGate.h"
+//#include "AudioDSPTools/dsp/NoiseGate.h"
+#include "NeuralAmpModelerCore/NAM/dsp.h"
 
 //==============================================================================
 /**
