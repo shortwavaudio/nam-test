@@ -14,8 +14,8 @@
 #include "AudioDSPTools/dsp/NoiseGate.h"
 #include "AudioDSPTools/dsp/dsp.h"
 #include "AudioDSPTools/dsp/wav.h"
-// TODO: fix issue with iPlug imports...
-//#include "AudioDSPTools/dsp/ResamplingContainer/ResamplingContainer.h"
+#include "IPlugConstants.h"
+#include "AudioDSPTools/dsp/ResamplingContainer/ResamplingContainer.h"
 
 //==============================================================================
 /**
