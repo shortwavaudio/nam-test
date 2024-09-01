@@ -17,10 +17,12 @@
 #include "IPlugConstants.h"
 #include "AudioDSPTools/dsp/ResamplingContainer/ResamplingContainer.h"
 #include "ToneStack.h"
+#include "ResamplingNAM.h"
 
 //==============================================================================
 /**
 */
+
 class NamtestAudioProcessor  : public juce::AudioProcessor
 {
 public:

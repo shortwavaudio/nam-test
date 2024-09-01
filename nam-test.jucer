@@ -3,7 +3,12 @@
 <JUCERPROJECT id="inftao" name="nam-test" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann&#10;~/Workspace/juce/dependencies/iPlug2/iPlug&#10;~/Workspace/juce/dependencies/nam">
   <MAINGROUP id="CjjodX" name="nam-test">
+    <GROUP id="{D433D857-E78A-5D77-FEB5-7D3E62836D74}" name="Resource">
+      <FILE id="GIVd1e" name="Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam"
+            compile="0" resource="1" file="Resource/Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam"/>
+    </GROUP>
     <GROUP id="{A122A781-0E0F-2FBC-8370-6B4F05A3E068}" name="Source">
+      <FILE id="ktmgtb" name="ResamplingNAM.h" compile="0" resource="0" file="Source/ResamplingNAM.h"/>
       <FILE id="zWUVZP" name="ToneStack.cpp" compile="1" resource="0" file="Source/ToneStack.cpp"/>
       <FILE id="TqMJMo" name="ToneStack.h" compile="0" resource="0" file="Source/ToneStack.h"/>
       <FILE id="BLQZUR" name="PluginProcessor.cpp" compile="1" resource="0"
