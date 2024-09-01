@@ -4,6 +4,8 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann&#10;~/Workspace/juce/dependencies/iPlug2/iPlug&#10;~/Workspace/juce/dependencies/nam">
   <MAINGROUP id="CjjodX" name="nam-test">
     <GROUP id="{A122A781-0E0F-2FBC-8370-6B4F05A3E068}" name="Source">
+      <FILE id="zWUVZP" name="ToneStack.cpp" compile="1" resource="0" file="Source/ToneStack.cpp"/>
+      <FILE id="TqMJMo" name="ToneStack.h" compile="0" resource="0" file="Source/ToneStack.h"/>
       <FILE id="BLQZUR" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="XRPTVP" name="PluginProcessor.h" compile="0" resource="0"

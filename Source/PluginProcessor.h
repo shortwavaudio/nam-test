@@ -16,6 +16,7 @@
 #include "AudioDSPTools/dsp/wav.h"
 #include "IPlugConstants.h"
 #include "AudioDSPTools/dsp/ResamplingContainer/ResamplingContainer.h"
+#include "ToneStack.h"
 
 //==============================================================================
 /**
