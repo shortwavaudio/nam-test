@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="inftao" name="nam-test" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/nam&#10;~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" headerPath="~/Workspace/juce/dependencies/eigen&#10;~/Workspace/juce/dependencies/nlohmann&#10;~/Workspace/juce/dependencies/iPlug2/iPlug&#10;~/Workspace/juce/dependencies/nam">
   <MAINGROUP id="CjjodX" name="nam-test">
     <GROUP id="{A122A781-0E0F-2FBC-8370-6B4F05A3E068}" name="Source">
       <FILE id="BLQZUR" name="PluginProcessor.cpp" compile="1" resource="0"
